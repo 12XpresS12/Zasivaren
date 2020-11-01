@@ -1,4 +1,4 @@
-package sk.xpress.zasivaren.commands;
+package sk.xpress.zasivaren.core.commands;
 
 import net.dv8tion.jda.api.entities.User;
 
